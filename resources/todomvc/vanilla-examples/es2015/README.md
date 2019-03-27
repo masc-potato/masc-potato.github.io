@@ -1,4 +1,4 @@
-# Speedometer 2.0: Vanilla JavaScript TodoMVC example
+# Speedometer 2.0: ES2015 TodoMVC example
 
 ## Test locally
 
